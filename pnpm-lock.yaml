@@ -34,7 +34,7 @@ devDependencies:
   prettier: 2.8.1
   ts-node: 10.9.1_moeqx3xmzxqxagf2sz6mqkbb7m
   typescript: 4.9.4
-  vite: 4.0.3_@types+node@18.11.17
+  vite: 4.0.5_@types+node@18.11.17
   vitest: 0.26.2
   wait-for-expect: 3.0.2
   ws: 8.11.0
@@ -2765,7 +2765,7 @@ packages:
       pathe: 0.2.0
       source-map: 0.6.1
       source-map-support: 0.5.21
-      vite: 4.0.3_@types+node@18.11.17
+      vite: 4.0.5_@types+node@18.11.17
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -2776,8 +2776,8 @@ packages:
       - terser
     dev: true
 
-  /vite/4.0.3_@types+node@18.11.17:
-    resolution: {integrity: sha512-HvuNv1RdE7deIfQb8mPk51UKjqptO/4RXZ5yXSAvurd5xOckwS/gg8h9Tky3uSbnjYTgUm0hVCet1cyhKd73ZA==}
+  /vite/4.0.5_@types+node@18.11.17:
+    resolution: {integrity: sha512-7m87RC+caiAxG+8j3jObveRLqaWA/neAdCat6JAZwMkSWqFHOvg8MYe5fAQxVBRAuKAQ1S6XDh3CBQuLNbY33w==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -2845,7 +2845,7 @@ packages:
       tinybench: 2.3.1
       tinypool: 0.3.0
       tinyspy: 1.0.2
-      vite: 4.0.3_@types+node@18.11.17
+      vite: 4.0.5_@types+node@18.11.17
       vite-node: 0.26.2_@types+node@18.11.17
     transitivePeerDependencies:
       - less
